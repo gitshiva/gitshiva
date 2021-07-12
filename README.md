@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on solving business problems and how to scale things WARNING: it requires deep thinking and modeling.
 - 🤓 Continous learner
 - ⛵️ Wannabe Sailor
+- 📨 Stamp collector
 - 👂 but more importantly, I'd love to listen to your story and experiences.
 - 📫 I'm reachable via snail mail (love post cards!), e-mail: s h i v a a t s u b b u d o t us, or LN: https://www.linkedin.com/in/subramanian
 
