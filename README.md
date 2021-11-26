@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @gitshiva
-- 👀 Physics. Universe is ~13.77 billion years old, the universe itself is ~ 96 billion lights years in diameter .. yeah, I know, crazy right?
-- 🌱 I’m currently learning golang http://golang.org and recursion :-(, I know I didn't do it right the first time.
-- 💞️ I’m looking to collaborate on solving business problems and how to scale things WARNING: it requires deep thinking and modeling.
+- 👀 Physics. 
+  - Universe is ~13.77 billion years old
+  - Universe is ~ 96 billion lights years in diameter .. 
+  - yeah, I know, crazy right? https://www.youtube.com/watch?v=vIJTwYOZrGU
+- 🌱 I’m currently learning golang http://golang.org 
+  - and recursion :-(, I know I didn't do it right the first time.
+- 💞️ I’m looking to collaborate on solving business problems and how to scale things 
+  - WARNING: it requires modeling, deep thinking and sometimes admitting that we are wrong!
 - 🤓 Continous learner
 - ⛵️ Wannabe Sailor
 - 📨 Stamp collector
